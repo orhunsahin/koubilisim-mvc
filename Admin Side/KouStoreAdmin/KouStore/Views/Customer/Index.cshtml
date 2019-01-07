@@ -1,0 +1,76 @@
+﻿@model IEnumerable<KouStoreAdmin.Models.Customer>
+
+
+<br />
+<div class="row">
+
+    <table class="table table-hover table-bordered table-striped">
+  <tr>
+      <th>
+         Müşteri No
+      </th>
+    <th>
+       Müşteri Adı
+    </th>
+    <th>
+       Soyadı
+    </th>    
+    <th>
+       Yaş
+    </th> 
+    <th>
+     Ülke
+    </th>  
+    <th>
+     E-Mail
+    </th>   
+      
+    <th>
+    Telefon
+    </th>   
+   
+    <th>Sil</th>
+</tr>
+
+@foreach (var item in Model)
+{
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CustomerID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.First_Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Last_Name)
+        </td>
+       
+        <td>
+            @Html.DisplayFor(modelItem => item.Age)
+        </td>        
+       
+        <td>
+            @Html.DisplayFor(modelItem => item.Country)
+        </td>
+       
+        <td>
+            @Html.DisplayFor(modelItem => item.Email)
+        </td>       
+        
+        <td>
+            @Html.DisplayFor(modelItem => item.Mobile1)
+        </td>       
+    
+        
+        <td>
+         
+            <a class="btn btn-sm btn-danger" href="@Url.Action("Delete", "Customer", new { id = item.CustomerID })" aria-label="Delete" data-toggle="tooltip" data-placement="top" title="Sil">
+                <i class="fa fa-trash-o" aria-hidden="true"></i>
+            </a>
+        </td>
+    </tr>
+
+}
+
+    </table>
+</div>

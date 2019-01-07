@@ -1,0 +1,69 @@
+﻿@model IEnumerable<KouStoreAdmin.Models.Order>
+
+
+<font color="red" face="Comic-Sans"><h4>&nbsp; Siparişler</h4></font>
+<table class="table table-hover">
+    <tr>
+        <th>
+            Sipariş No
+        </th>
+        <th>
+            Müşteri No
+        </th>
+        <th>
+            Ödeme No
+        </th>
+        <th>
+        Kargo No
+        </th>
+        <th>
+İndirim
+        </th>
+        <th>
+           Taksit
+        </th>
+        <th>
+           Toplam Ücret
+        </th>
+        <th>
+          Sipariş Tarihi
+        </th>        
+              
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.OrderID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Customer.CustomerID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Payment.PaymentID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ShippingDetail.ShippingID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Discount)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Taxes)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TotalAmount)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.OrderDate)
+        </td>             
+      
+        <td>          
+            @Html.ActionLink("Detayı Görüntüle", "Details", new { id=item.OrderID })
+         
+        </td>
+    </tr>
+}
+
+</table>

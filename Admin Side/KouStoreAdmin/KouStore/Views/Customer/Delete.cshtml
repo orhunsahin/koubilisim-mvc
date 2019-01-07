@@ -1,0 +1,16 @@
+﻿@model KouStoreAdmin.Models.Customer
+
+
+<h3>Silmek istediğine emin misin ?</h3>
+<hr />
+
+@using (Html.BeginForm("Delete", "Customer", new { id = @Model.CustomerID }, FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-actions no-color">
+        @Html.ActionLink("Geri Dön", "Index", null, new { @class = "" })
+        <input type="submit" value="Sil" class="btn btn-danger col-md-offset-1" />
+    </div>
+}
+

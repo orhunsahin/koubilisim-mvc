@@ -1,0 +1,68 @@
+C:\Users\orhun.sahin\Desktop\KocaeliUni.st - Copy\Client Side\KouStore\KouStore\obj\Debug\KouStore.csprojAssemblyReference.cache
+C:\Users\orhun.sahin\Desktop\KocaeliUni.st - Copy\Client Side\KouStore\KouStore\obj\Debug\KouStore.csproj.CoreCompileInputs.cache
+C:\Users\orhun.sahin\Desktop\KocaeliUni.st - Copy\Client Side\KouStore\KouStore\obj\Debug\Khareedo.dll
+C:\Users\orhun.sahin\Desktop\KocaeliUni.st - Copy\Client Side\KouStore\KouStore\obj\Debug\Khareedo.pdb
+C:\Users\orhun.sahin\Desktop\KocaeliUni.st - Copy\Client Side\KouStore\KouStore\bin\Khareedo.dll.config
+C:\Users\orhun.sahin\Desktop\KocaeliUni.st - Copy\Client Side\KouStore\KouStore\bin\Khareedo.dll
+C:\Users\orhun.sahin\Desktop\KocaeliUni.st - Copy\Client Side\KouStore\KouStore\bin\Khareedo.pdb
+C:\Users\orhun.sahin\Desktop\KocaeliUni.st - Copy\Client Side\KouStore\KouStore\bin\Antlr3.Runtime.dll
+C:\Users\orhun.sahin\Desktop\KocaeliUni.st - Copy\Client Side\KouStore\KouStore\bin\EntityFramework.dll
+C:\Users\orhun.sahin\Desktop\KocaeliUni.st - Copy\Client Side\KouStore\KouStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\orhun.sahin\Desktop\KocaeliUni.st - Copy\Client Side\KouStore\KouStore\bin\Newtonsoft.Json.dll
+C:\Users\orhun.sahin\Desktop\KocaeliUni.st - Copy\Client Side\KouStore\KouStore\bin\PagedList.dll
+C:\Users\orhun.sahin\Desktop\KocaeliUni.st - Copy\Client Side\KouStore\KouStore\bin\PagedList.Mvc.dll
+C:\Users\orhun.sahin\Desktop\KocaeliUni.st - Copy\Client Side\KouStore\KouStore\bin\System.Web.Helpers.dll
+C:\Users\orhun.sahin\Desktop\KocaeliUni.st - Copy\Client Side\KouStore\KouStore\bin\System.Web.Mvc.dll
+C:\Users\orhun.sahin\Desktop\KocaeliUni.st - Copy\Client Side\KouStore\KouStore\bin\System.Web.Optimization.dll
+C:\Users\orhun.sahin\Desktop\KocaeliUni.st - Copy\Client Side\KouStore\KouStore\bin\System.Web.Razor.dll
+C:\Users\orhun.sahin\Desktop\KocaeliUni.st - Copy\Client Side\KouStore\KouStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\orhun.sahin\Desktop\KocaeliUni.st - Copy\Client Side\KouStore\KouStore\bin\System.Web.WebPages.dll
+C:\Users\orhun.sahin\Desktop\KocaeliUni.st - Copy\Client Side\KouStore\KouStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\orhun.sahin\Desktop\KocaeliUni.st - Copy\Client Side\KouStore\KouStore\bin\WebGrease.dll
+C:\Users\orhun.sahin\Desktop\KocaeliUni.st - Copy\Client Side\KouStore\KouStore\bin\EntityFramework.xml
+C:\Users\orhun.sahin\Desktop\KocaeliUni.st - Copy\Client Side\KouStore\KouStore\bin\PagedList.xml
+C:\Users\orhun.sahin\Desktop\KocaeliUni.st - Copy\Client Side\KouStore\KouStore\bin\PagedList.Mvc.xml
+C:\Users\orhun.sahin\Desktop\KocaeliUni.st - Copy\Client Side\KouStore\KouStore\bin\System.Web.Helpers.xml
+C:\Users\orhun.sahin\Desktop\KocaeliUni.st - Copy\Client Side\KouStore\KouStore\bin\System.Web.Mvc.xml
+C:\Users\orhun.sahin\Desktop\KocaeliUni.st - Copy\Client Side\KouStore\KouStore\bin\System.Web.Optimization.xml
+C:\Users\orhun.sahin\Desktop\KocaeliUni.st - Copy\Client Side\KouStore\KouStore\bin\System.Web.Razor.xml
+C:\Users\orhun.sahin\Desktop\KocaeliUni.st - Copy\Client Side\KouStore\KouStore\bin\System.Web.WebPages.xml
+C:\Users\orhun.sahin\Desktop\KocaeliUni.st - Copy\Client Side\KouStore\KouStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\orhun.sahin\Desktop\KocaeliUni.st - Copy\Client Side\KouStore\KouStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\orhun.sahin\Desktop\KocaeliUni.st - Copy\Client Side\KouStore\KouStore\bin\Antlr3.Runtime.pdb
+C:\Users\orhun.sahin\Desktop\KocaeliUni.st - Copy\Client Side\KouStore\KouStore\bin\Newtonsoft.Json.xml
+C:\Users\orhun.sahin\Desktop\KocaeliUni.st - Copy\Client Side\KouStore\KouStore\obj\Debug\KouStore.csproj.CopyComplete
+C:\Users\orhun.sahin\Desktop\KouStore\Client Side\KouStore\KouStore\bin\Khareedo.dll.config
+C:\Users\orhun.sahin\Desktop\KouStore\Client Side\KouStore\KouStore\bin\Khareedo.dll
+C:\Users\orhun.sahin\Desktop\KouStore\Client Side\KouStore\KouStore\bin\Khareedo.pdb
+C:\Users\orhun.sahin\Desktop\KouStore\Client Side\KouStore\KouStore\bin\Antlr3.Runtime.dll
+C:\Users\orhun.sahin\Desktop\KouStore\Client Side\KouStore\KouStore\bin\EntityFramework.dll
+C:\Users\orhun.sahin\Desktop\KouStore\Client Side\KouStore\KouStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\orhun.sahin\Desktop\KouStore\Client Side\KouStore\KouStore\bin\Newtonsoft.Json.dll
+C:\Users\orhun.sahin\Desktop\KouStore\Client Side\KouStore\KouStore\bin\PagedList.dll
+C:\Users\orhun.sahin\Desktop\KouStore\Client Side\KouStore\KouStore\bin\PagedList.Mvc.dll
+C:\Users\orhun.sahin\Desktop\KouStore\Client Side\KouStore\KouStore\bin\System.Web.Helpers.dll
+C:\Users\orhun.sahin\Desktop\KouStore\Client Side\KouStore\KouStore\bin\System.Web.Mvc.dll
+C:\Users\orhun.sahin\Desktop\KouStore\Client Side\KouStore\KouStore\bin\System.Web.Optimization.dll
+C:\Users\orhun.sahin\Desktop\KouStore\Client Side\KouStore\KouStore\bin\System.Web.Razor.dll
+C:\Users\orhun.sahin\Desktop\KouStore\Client Side\KouStore\KouStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\orhun.sahin\Desktop\KouStore\Client Side\KouStore\KouStore\bin\System.Web.WebPages.dll
+C:\Users\orhun.sahin\Desktop\KouStore\Client Side\KouStore\KouStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\orhun.sahin\Desktop\KouStore\Client Side\KouStore\KouStore\bin\WebGrease.dll
+C:\Users\orhun.sahin\Desktop\KouStore\Client Side\KouStore\KouStore\bin\EntityFramework.xml
+C:\Users\orhun.sahin\Desktop\KouStore\Client Side\KouStore\KouStore\bin\PagedList.xml
+C:\Users\orhun.sahin\Desktop\KouStore\Client Side\KouStore\KouStore\bin\PagedList.Mvc.xml
+C:\Users\orhun.sahin\Desktop\KouStore\Client Side\KouStore\KouStore\bin\System.Web.Helpers.xml
+C:\Users\orhun.sahin\Desktop\KouStore\Client Side\KouStore\KouStore\bin\System.Web.Mvc.xml
+C:\Users\orhun.sahin\Desktop\KouStore\Client Side\KouStore\KouStore\bin\System.Web.Optimization.xml
+C:\Users\orhun.sahin\Desktop\KouStore\Client Side\KouStore\KouStore\bin\System.Web.Razor.xml
+C:\Users\orhun.sahin\Desktop\KouStore\Client Side\KouStore\KouStore\bin\System.Web.WebPages.xml
+C:\Users\orhun.sahin\Desktop\KouStore\Client Side\KouStore\KouStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\orhun.sahin\Desktop\KouStore\Client Side\KouStore\KouStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\orhun.sahin\Desktop\KouStore\Client Side\KouStore\KouStore\bin\Antlr3.Runtime.pdb
+C:\Users\orhun.sahin\Desktop\KouStore\Client Side\KouStore\KouStore\bin\Newtonsoft.Json.xml
+C:\Users\orhun.sahin\Desktop\KouStore\Client Side\KouStore\KouStore\obj\Debug\KouStore.csprojAssemblyReference.cache
+C:\Users\orhun.sahin\Desktop\KouStore\Client Side\KouStore\KouStore\obj\Debug\KouStore.csproj.CoreCompileInputs.cache
+C:\Users\orhun.sahin\Desktop\KouStore\Client Side\KouStore\KouStore\obj\Debug\KouStore.csproj.CopyComplete
+C:\Users\orhun.sahin\Desktop\KouStore\Client Side\KouStore\KouStore\obj\Debug\Khareedo.dll
+C:\Users\orhun.sahin\Desktop\KouStore\Client Side\KouStore\KouStore\obj\Debug\Khareedo.pdb

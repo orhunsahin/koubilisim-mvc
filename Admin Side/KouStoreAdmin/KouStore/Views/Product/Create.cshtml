@@ -1,0 +1,75 @@
+﻿@model KouStoreAdmin.Models.Product
+
+
+
+@using (Html.BeginForm("Create", "Product", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+
+        <div class="col-md-8">
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <div class="form-group">
+                <p class="control-label col-md-2"><b>Adı</b></p>
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <p class="control-label col-md-2"><b>Kategori</b></p>                <div class="col-md-10">
+                    @Html.DropDownList("CategoryID", null, htmlAttributes: new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.CategoryID, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group">
+                <p class="control-label col-md-2"><b>Alt Kategorisi</b></p>                <div class="col-md-10">
+                    @Html.DropDownList("SubCategoryID", null, htmlAttributes: new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.SubCategoryID, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <p class="control-label col-md-2"><b>Fiyat</b></p>                <div class="col-md-10">
+                    @Html.EditorFor(model => model.UnitPrice, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.UnitPrice, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group">
+                <p class="control-label col-md-2"><b>Eski Fiyatı</b></p>                <div class="col-md-10">
+                    @Html.EditorFor(model => model.OldPrice, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.OldPrice, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group">
+                <p class="control-label col-md-2"><b>Stok Sayısı</b></p>                <div class="col-md-10">
+                    @Html.EditorFor(model => model.UnitInStock, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.UnitInStock, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <p class="control-label col-md-2"><b>Görsel URL</b></p>                <div class="col-md-10">
+                    @Html.EditorFor(model => model.ImageURL, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.ImageURL, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Ekle" class="btn btn-primary" />
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div>
+                <img src="~/Content/Images/ProfileImage.svg" alt="" class="img-thumbnail" width="160" height="160" />
+            </div><br />
+                  <div>
+                      <a href="#" class="btn btn-sm btn-primary"> <i class="fa fa-fw fa-folder-open-o"></i> Yükle</a>
+                      <a href="#" class="btn btn-sm btn-danger"> <i class="fa fa-fw fa-remove"></i> Temizle</a>
+                  </div>
+        </div>
+    </div>
+}
